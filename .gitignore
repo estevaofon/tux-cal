@@ -1,0 +1,11 @@
+#ignore envs
+env/
+venv/
+.idea/
+.env/
+
+#ignore build files
+build/
+dist/
+*.egg-info/
+*.egg/
