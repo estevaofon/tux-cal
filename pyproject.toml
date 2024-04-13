@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tux-cal"
-version = "0.1.3"
+version = "0.1.4"
 description = "A simple calendar tool mimicking Unix 'cal' command."
 authors = ["Estevao Fonseca <estevaopfon@gmail.com>"]
 license = "MIT"
